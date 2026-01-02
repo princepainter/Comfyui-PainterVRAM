@@ -1,5 +1,6 @@
 # Comfyui-PainterVRAM  
 **English** | [中文](#中文)
+<img width="1451" height="415" alt="image" src="https://github.com/user-attachments/assets/4feefb06-a100-485c-9811-7f09bcae6085" />
 
 ## English  
 A tiny ComfyUI custom node that reserves GPU VRAM before workflow execution to avoid OOM crashes.  
